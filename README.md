@@ -8,3 +8,4 @@
 
 **Proseguimos con la segunda ventana la cual contenia las filas desplegables tal como se muestra en la imagen y eso seria todo en el primer trabajo**
 
+![](https://github.com/Ronal1526/clases_kotlin/blob/main/2.jpeg)
